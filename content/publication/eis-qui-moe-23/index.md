@@ -17,3 +17,4 @@ links:
 - name: URL
   url: https://www.usenix.org/conference/usenixsecurity23/presentation/eisenhofer
 ---
+*=Shared first authorship
