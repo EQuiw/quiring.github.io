@@ -11,3 +11,4 @@ publication_types:
 publication: '*Deep Learning Security and Privacy Workshop (DLSP)*'
 doi: 10.1109/SPW63631.2024.00016
 ---
+Best Paper Award
