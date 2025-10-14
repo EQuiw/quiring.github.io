@@ -10,3 +10,4 @@ publication_types:
 publication: '*IEEE International Workshop on Information Forensics and Security (WIFS)*'
 doi: 10.1109/WIFS.2015.7368580
 ---
+Best Student Paper Award
