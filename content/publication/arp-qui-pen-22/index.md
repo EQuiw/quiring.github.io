@@ -18,3 +18,4 @@ links:
 - name: URL
   url: https://www.usenix.org/conference/usenixsecurity22/presentation/arp
 ---
+Distinguished Paper Award
