@@ -13,3 +13,4 @@ publication_types:
 publication: '*Proc. of IEEE Conference on Computer Vision and Pattern Recognition
   (CVPR)*'
 ---
+Selected paper for oral presentation
